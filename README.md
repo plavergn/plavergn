@@ -38,9 +38,6 @@ ft_printf</h3>     <a href="https://github.com/JaeSeoKim/badge42"><img src="http
 <h3>
 Libft</h3>         <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/project/2396532" alt="plavergn's 42 Libft Score" /></a>
 
-
-### Hi there 👋
-
 <!--
 **plavergn/plavergn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
