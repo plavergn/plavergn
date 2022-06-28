@@ -1,22 +1,22 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/stats?cursusId=21&coalitionId=51" alt="plavergn's 42 stats" /></a>
 
-###
 <h2>
 42-Exam : 
+ 
 </h2>
-###
 <h3>
 Exam Rank 02</h3>  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/project/2463952" alt="plavergn's 42 Exam Rank 02 Score" /></a>
 <h3>
 Exam Rank 03</h3>  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/project/2542059" alt="plavergn's 42 Exam Rank 03 Score" /></a>
-###
-###
-###
+
+
+
 <h2>
 42-Project :
+  
 </h2>
 
-###
+
 <h3>
 cub3d</h3>         <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/project/2639179" alt="plavergn's 42 cub3d Score" /></a>
 <h3>
