@@ -19,8 +19,6 @@ Exam Rank 03</h3>  <a href="https://github.com/JaeSeoKim/badge42"><img src="http
 
 
 <h3>
-cub3d</h3>         <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/project/2639179" alt="plavergn's 42 cub3d Score" /></a>
-<h3>
 netpractice</h3><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/project/2640146" alt="plavergn's 42 NetPractice Score" /></a>
 <h3>
 minishell </h3>    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4y0zzwa001109laz8s1r901/project/2559269" alt="plavergn's 42 minishell Score" /></a>
